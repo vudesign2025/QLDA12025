@@ -2961,10 +2961,4 @@
     </script>
 </body>
 </html>
-    <script id="html_badge_script1">
-        window.__genspark_remove_badge_link = "https://www.genspark.ai/api/html_badge/" +
-            "remove_badge?token=To%2FBnjzloZ3UfQdcSaYfDhs2F0VlYwmnw9foy39E0BMQ0UXQy5jOdkEnABzX5mO1hEbRmimTW1ZGr0TvMvMvS8smD7emu8%2FFuzW527MBWrBd4y%2FQS0ZeqPXsiSOB0OMnRwvMz5umhBndXo0h7ttzuhJGua7MCKLr90CNbR%2BsXLqnM53aG%2FdT%2B6cFzsqAmbQusvAOEe%2FrB532wIt4aQuwjo7Vl6BpA36NLKpzeNaO61qj42f3p3e1CrRBK%2FYpm2lzYCZM1k7P7CCPLCnmzKrjcnApDXpnFMRbcqQciQHlWowsnmgTYm8cgJxDJg7ynXIiy6IuEIFVhJIKCPhAqE0%2FwYYP0r9PKSGbLycSr0xREPTuk2z0RK0WT1vFiSDLs2dUWqRvY1k%2FyATtwH%2BAc3s3TdnC4rkn%2Fc%2Bpr70yqD9PmbgjkotVM77TNCmCKDMzmS5td%2FPHR3GKsGsIX%2F7Kij%2Bsg8eynPgMDiYS1B5PmZT6Ad%2FjlZTJ%2FIdV5%2FdretD%2Fv74RPFkr9hOOBvkD2ccCGrBKdQ%3D%3D";
-        window.__genspark_locale = "en-US";
-        window.__genspark_token = "To/BnjzloZ3UfQdcSaYfDhs2F0VlYwmnw9foy39E0BMQ0UXQy5jOdkEnABzX5mO1hEbRmimTW1ZGr0TvMvMvS8smD7emu8/FuzW527MBWrBd4y/QS0ZeqPXsiSOB0OMnRwvMz5umhBndXo0h7ttzuhJGua7MCKLr90CNbR+sXLqnM53aG/dT+6cFzsqAmbQusvAOEe/rB532wIt4aQuwjo7Vl6BpA36NLKpzeNaO61qj42f3p3e1CrRBK/Ypm2lzYCZM1k7P7CCPLCnmzKrjcnApDXpnFMRbcqQciQHlWowsnmgTYm8cgJxDJg7ynXIiy6IuEIFVhJIKCPhAqE0/wYYP0r9PKSGbLycSr0xREPTuk2z0RK0WT1vFiSDLs2dUWqRvY1k/yATtwH+Ac3s3TdnC4rkn/c+pr70yqD9PmbgjkotVM77TNCmCKDMzmS5td/PHR3GKsGsIX/7Kij+sg8eynPgMDiYS1B5PmZT6Ad/jlZTJ/IdV5/dretD/v74RPFkr9hOOBvkD2ccCGrBKdQ==";
-    </script>
-    
+   
